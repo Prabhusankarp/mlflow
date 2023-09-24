@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/My%20Drive/FSDS/ML_Project/mlflow/mlruns/0/36cf1ab190aa4496952027c86d955f93/artifacts
+end_time: 1695534168754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36cf1ab190aa4496952027c86d955f93
+run_name: gregarious-crow-187
+run_uuid: 36cf1ab190aa4496952027c86d955f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695534100439
+status: 3
+tags: []
+user_id: Prabhu

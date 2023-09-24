@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/My%20Drive/FSDS/ML_Project/mlflow/mlruns/0/63cf9b6e47704c2e814d59d12c593eaf/artifacts
+end_time: 1695534308310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63cf9b6e47704c2e814d59d12c593eaf
+run_name: chill-ant-82
+run_uuid: 63cf9b6e47704c2e814d59d12c593eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695534253313
+status: 4
+tags: []
+user_id: Prabhu
